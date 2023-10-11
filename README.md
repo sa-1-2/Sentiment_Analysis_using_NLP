@@ -1,5 +1,3 @@
-# Sentiment_Analysis_using_NLP
-
 # Text Analysis Using Natural Language Processing (NLP)
 
 This project focuses on performing text analysis using Natural Language Processing (NLP) techniques. The process involves data collection through web scraping, followed by comprehensive data analysis including sentiment analysis, readability assessment, and various metrics for text evaluation.
@@ -64,3 +62,17 @@ The data analysis phase involves several steps to gain insights from the collect
 ## Data Export
 
 The resulting analysis parameters were exported to an Excel file named "OUTPUT FINAL DATA.xlsx" after being compiled into a dataframe.
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or further information regarding this project, please contact **sanchitsingla1403@gmail.com**
+---
+
